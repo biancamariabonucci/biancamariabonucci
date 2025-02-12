@@ -1,5 +1,6 @@
-## Hello!
+## Hi there, I am Bianca! 👋 👋
 
+I am a PhD student in the Archaeogenomics group, in the [Institute of Genomics](https://genomics.ut.ee/en) at the University of Tartu, Estonia.🇪🇪
 <!--
 **biancamariabonucci/biancamariabonucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
